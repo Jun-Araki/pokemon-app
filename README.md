@@ -1,3 +1,6 @@
+# Movie
+![Adobe Express - Screen Recording 2026-02-05 at 9 46 57 PM](https://github.com/user-attachments/assets/822efbdb-253c-40fe-a3ad-e6f9614dcdc2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
